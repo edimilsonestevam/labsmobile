@@ -18,6 +18,19 @@ About
 # Installation
 About
 
+| Software  | Version | Link |
+| --------- | ------- | ---- |
+|           |         |      |
+|           |         |      |
+|           |         |      |
+|           |         |      |
+|           |         |      |
+|           |         |      |
+|           |         |      |
+|           |         |      |
+|           |         |      |
+|           |         |      |
+
 **1º Step:** <br>
 **2º Step:** <br>
 **3º Step:** <br>
@@ -29,6 +42,14 @@ About
 # Settings
 About
 
+
+| Variable Name  | Variable Value |
+| -------------- | -------------- |
+|                |                | 
+|                |                |   
+|                |                |    
+|                |                |   
+
 **1º Step:** <br>
 **2º Step:** <br>
 
@@ -37,6 +58,15 @@ About
 **Example 2:** Android Home <br>
 
 **Example 3:** Python Home <br>
+
+| Environment Variable |
+| -------------------- |
+|                      |
+|                      |
+|                      |
+|                      |
+|                      | 
+|                      |
 
 **3º Step:** <br>
 
