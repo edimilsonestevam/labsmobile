@@ -5,7 +5,7 @@ About
 1. Installation <br>
 2. Settings <br>
 3. Test the Configuration <br>
-4. Android Studio or Xcode <br>
+4. Android Studio <br>
 5. Microsoft Visual Code <br>
 6. Robot Framework <br>
 7. Appium <br>
@@ -58,6 +58,51 @@ About
 **1º Step:** <br>
 **2º Step:** <br>
 **3º Step:** <br>
+
+# Android Studio
+About
+
+**1º Step:** <br>
+**2º Step:** <br>
+**3º Step:** <br>
+
+# Microsoft Visual Code
+About
+
+**1º Step:** <br>
+**2º Step:** <br>
+
+# Robot Framework
+About
+
+**1º Step:** <br>
+
+**Example 10:** Robot Framework <br>
+
+**Example 11:** Appium Library <br>
+
+**Example 12:** Debug Library <br>
+
+**Example 13:** Screen Caplibrary <br>
+
+**Example 14:** Auto Recorder <br>
+
+# Appium
+About
+
+**1º Step:** <br>
+
+**Example 15:** Appium Capabilities <br>
+
+# GitLab
+About
+
+**1º Step:** <br>
+**2º Step:** <br>
+**3º Step:** <br>
+**4º Step:** <br>
+
+
 
 
 
