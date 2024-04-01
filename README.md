@@ -114,6 +114,14 @@ About
 # Robot Framework
 About
 
+| Library   | Version | Command |
+| --------- | ------- | ------- |
+|           |         |         |
+|           |         |         |
+|           |         |         |
+|           |         |         |
+|           |         |         |
+
 **1º Step:** <br>
 
 **Example 10:** Robot Framework <br>
