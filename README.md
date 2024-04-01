@@ -138,6 +138,13 @@ About
 About
 
 **1º Step:** <br>
+| Name      | Type    | Value |
+| --------- | ------- | ----- |
+|           |         |       |
+|           |         |       |
+|           |         |       |
+|           |         |       |
+|           |         |       |
 
 **Example 15:** Appium Capabilities <br>
 
