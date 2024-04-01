@@ -2,15 +2,15 @@
 About
 
 # Summary
-**1. Installation** <br>
-**2. Settings** <br>
-**3. Test the Configuration** <br>
-**4. Android Studio or Xcode** <br>
-**5. Microsoft Visual Code** <br>
-**6. Robot Framework** <br>
-**7. Appium** <br>
-**8. GitLab** <br>
-**9. Test Automation** <br>
+1. Installation <br>
+2. Settings <br>
+3. Test the Configuration <br>
+4. Android Studio or Xcode <br>
+5. Microsoft Visual Code <br>
+6. Robot Framework <br>
+7. Appium <br>
+8. GitLab <br>
+9. Test Automation <br>
 
 # Android
 About
